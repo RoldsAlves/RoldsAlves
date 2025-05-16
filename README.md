@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @RoldsAlves
-- 👀 I’m interested in tecnology and motorcycles. I developer in C#
-- 🌱 I’m currently learning .net and front-end
-- 💞️ I’m looking to collaborate on everyone who help me to improve my skills
-- 📫 How to reach me? it's simple, send-me a message on instagram or telegram @RoldsAlves
+Multidisciplinary professional with a strong background in Mechanical Engineering, Information Technology, and Software Engineering, combined with over 10 years of experience in industrial and technology environments. I bring advanced technical expertise in automation, software development (C#, .NET, SQL, APIs), and data analysis (BI, Tableau) along with skills in project management, continuous improvement (Lean, Six Sigma), and digital transformation.
 
+Career Highlights:
+Industrial Process Digitalization
+
+As Digitalization Analyst at Knauf, led digital transformation projects for South America, including the development of a sustainability app for Latin American employees.
+
+Managed requirements, supervised development teams, and acted as a bridge between technical and operational areas.
+
+Developed internal systems (MES - Manufacturing Execution System) using C#, ASP.NET, SQL Server, and Tableau, advancing the factory toward Industry 4.0 standards.
+
+Technology & Development Experience
+
+COBOL, DB2, and Agile (Scrum, Lean) Programmer at Capgemini, working on financial projects.
+
+Developed production management systems from requirements analysis to implementation, ensuring cost reduction and efficiency gains.
+
+Technical & Behavioral Skills:
+🔹 Technologies: C#, .NET, SQL Server, ASP.NET, REST APIs, JavaScript, Tableau, SAP
+🔹 Management: Lean Six Sigma, Scrum, Project Management, Process Mapping (BPMN)
+🔹 Soft Skills: Leadership, Problem-Solving, Interpersonal Communication, Strategic Vision
 <!---
 RoldsAlves/RoldsAlves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
